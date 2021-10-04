@@ -8,7 +8,7 @@ a PostgreSQL relational database.
 ## Table of Contents
 
 * [General Info](#general-information)
-* [Technologies Used (interesting from the develeper's point of view)](#technologies-used)
+* [Technologies Used (interesting from the developer's point of view)](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
@@ -33,7 +33,7 @@ In this project, my responsibility was to plan, choose the technology and implem
 repository only contains the code of the back-end part. However, below you will find screenshots of the final version of the application,
 including the front-end part.
 
-## Technologies Used (interesting from the develeper's point of view)
+## Technologies Used (interesting from the developer's point of view)
 
 - Spring Boot - framework used to build the server application
 - PostgreSQL - relational database used to store application’s data
